@@ -14,6 +14,7 @@ a. Python 3.x
 b. Pillow (pip install pillow)
 
 How It Works
+
 Hiding text:
 
 Converts each character of the input text into 8-bit binary.
