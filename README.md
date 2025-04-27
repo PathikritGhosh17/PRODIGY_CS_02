@@ -32,4 +32,5 @@ Groups bits into bytes (8 bits) and converts them back into characters.
 Stops reading once a null byte (00000000) is found.
 
 License
+
 This project is open-source and free to use under the MIT License.
